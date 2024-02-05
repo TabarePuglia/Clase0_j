@@ -1,3 +1,5 @@
 1- git init => Inicializa un repocitorio o lo reinicia
 2- git status => obtengo informacion del repocitorio
 3- git add (archivo) = Agregar archivo a area de seguimiento
+4- git commit -M "texto explicativo del commit"
+5- got log => Muestra los commit ingresados
